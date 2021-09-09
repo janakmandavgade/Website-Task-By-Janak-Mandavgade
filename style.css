@@ -1,0 +1,10 @@
+.image{
+    justify-content: flex-end;
+    align-content: right;
+}
+.col-md-6,.col-12{
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
